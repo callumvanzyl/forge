@@ -1,0 +1,68 @@
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\bin\Release\Forge.exe.config
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\bin\Release\Forge.exe
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\bin\Release\Forge.pdb
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\bin\Release\Newtonsoft.Json.dll
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\bin\Release\Newtonsoft.Json.xml
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.Controls.TileSelector.resources
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.Interfaces.Editor.resources
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.Interfaces.Splash.resources
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.Properties.Resources.resources
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.csproj.GenerateResource.Cache
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.exe
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.pdb
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Documents\Development\Software Development\Forge - Copy\Forge\Forge\obj\Release\Forge.Controls.EditorViewport.resources
+C:\Users\Callum\Desktop\Forge\Forge\Forge\bin\Release\Forge.exe.config
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.exe
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.pdb
+C:\Users\Callum\Desktop\Forge\Forge\Forge\bin\Release\Forge.exe
+C:\Users\Callum\Desktop\Forge\Forge\Forge\bin\Release\Forge.pdb
+C:\Users\Callum\Desktop\Forge\Forge\Forge\bin\Release\Newtonsoft.Json.dll
+C:\Users\Callum\Desktop\Forge\Forge\Forge\bin\Release\Newtonsoft.Json.xml
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.Controls.TileSelector.resources
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.Interfaces.Editor.resources
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.Interfaces.Splash.resources
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.Properties.Resources.resources
+C:\Users\Callum\Desktop\Forge\Forge\Forge\obj\Release\Forge.csproj.GenerateResource.Cache
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\bin\Release\Forge.exe.config
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\bin\Release\Forge.exe
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\bin\Release\Forge.pdb
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\bin\Release\Newtonsoft.Json.dll
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\bin\Release\Newtonsoft.Json.xml
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.Controls.TileSelector.resources
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.Interfaces.Editor.resources
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.Interfaces.Splash.resources
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.Properties.Resources.resources
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.csproj.GenerateResource.Cache
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.exe
+C:\Users\Callum\Desktop\ForgeB\Forge\Forge\obj\Release\Forge.pdb
+N:\ForgeB\Forge\Forge\bin\Release\Forge.exe.config
+N:\ForgeB\Forge\Forge\bin\Release\Forge.exe
+N:\ForgeB\Forge\Forge\bin\Release\Forge.pdb
+N:\ForgeB\Forge\Forge\bin\Release\Newtonsoft.Json.dll
+N:\ForgeB\Forge\Forge\bin\Release\Newtonsoft.Json.xml
+N:\ForgeB\Forge\Forge\obj\Release\Forge.csprojResolveAssemblyReference.cache
+N:\ForgeB\Forge\Forge\obj\Release\Forge.Controls.TileSelector.resources
+N:\ForgeB\Forge\Forge\obj\Release\Forge.Interfaces.Editor.resources
+N:\ForgeB\Forge\Forge\obj\Release\Forge.Interfaces.Help.resources
+N:\ForgeB\Forge\Forge\obj\Release\Forge.Interfaces.Splash.resources
+N:\ForgeB\Forge\Forge\obj\Release\Forge.Properties.Resources.resources
+N:\ForgeB\Forge\Forge\obj\Release\Forge.csproj.GenerateResource.Cache
+N:\ForgeB\Forge\Forge\obj\Release\Forge.exe
+N:\ForgeB\Forge\Forge\obj\Release\Forge.pdb
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\bin\Release\Forge.exe.config
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.exe
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.pdb
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\bin\Release\Forge.exe
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\bin\Release\Forge.pdb
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\bin\Release\Newtonsoft.Json.dll
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\bin\Release\Newtonsoft.Json.xml
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.Controls.TileSelector.resources
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.Interfaces.Editor.resources
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.Interfaces.Help.resources
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.Interfaces.Splash.resources
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.Properties.Resources.resources
+C:\Users\Callum\Desktop\A42 - Copy\VSSol\Forge\obj\Release\Forge.csproj.GenerateResource.Cache

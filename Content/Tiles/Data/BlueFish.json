@@ -1,0 +1,6 @@
+{
+	"collidable": true,
+	"name": "Angry",
+	"sprite": "\\Content\\Tiles\\Sprites\\AngryFace.gif",
+	"type": "Emotions"
+}

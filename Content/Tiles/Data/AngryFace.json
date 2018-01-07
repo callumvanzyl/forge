@@ -1,0 +1,6 @@
+{
+	"collidable": true,
+	"name": "Blue Tang",
+	"sprite": "\\Content\\Tiles\\Sprites\\BlueFish.png",
+	"type": "Fish"
+}
